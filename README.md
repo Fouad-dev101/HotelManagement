@@ -17,3 +17,13 @@ Fichier : `data/hotelyx.db` (SQLite). Toutes les données persistent après red�
 
 ## Données de démonstration
 `npm run db:seed` → 6 chambres, 2 types, 3 services (uniquement si la base est vide).
+
+# 🏨 Hotelyx — Premium Hotel PMS
+
+[![Node.js](https://img.shields.io/badge/Node.js-22.x-green.svg)](https://nodejs.org/)
+[![React](https://img.shields.io/badge/React-18-blue.svg)](https://reactjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue.svg)](https://www.typescriptlang.org/)
+[![SQLite](https://img.shields.io/badge/SQLite-3-lightgrey.svg)](https://www.sqlite.org/)
+[![Tests](https://img.shields.io/badge/Tests-Vitest-yellow.svg)](https://vitest.dev/)
+
+Application complète de gestion hôtelière (Property Management System) conçue pour les hôtels indépendants au Maroc. 
